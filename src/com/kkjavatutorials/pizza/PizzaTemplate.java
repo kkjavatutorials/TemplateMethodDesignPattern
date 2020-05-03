@@ -2,7 +2,7 @@ package com.kkjavatutorials.pizza;
 /**
  * 
  * @author KK JavaTutorials
- *
+ *This is a base template class
  */
 public abstract class PizzaTemplate {
 
